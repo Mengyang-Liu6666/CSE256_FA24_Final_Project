@@ -8,6 +8,6 @@
 *   `Inference.ipynb`: try examples with the 2 trained models
 
 *   The sequence to run the notebooks should be: 
-*   Data_augmentation.ipynb - Training.ipynb - Training_augmented.ipynb - Inference.ipynb
+*   `Data_augmentation.ipynb` - `Training.ipynb` - `Training_augmented.ipynb` - `Inference.ipynb`
 
-*   For time concern, just run the examples with Inference.ipynb is recommended.
+*   For time concern, just run the examples with `Inference.ipynb` is recommended.
